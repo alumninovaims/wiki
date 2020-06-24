@@ -1,2 +1,2 @@
 # wiki
-Overall instructions on the Alumni Nova IMS team
+Overall instructions for the Nova IMS Alumni
